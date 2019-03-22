@@ -9,7 +9,11 @@
 
 
 
-### 교육 자료
+### 공부 자료
+
+- 교재
+  - [Deep Learning Book - 저자 : Ian Goodfellow, Yoshua Bengio, Aaron Courville ](http://deeplearningbook.org)
+  - 
 
 
 
